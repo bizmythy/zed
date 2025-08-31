@@ -104,6 +104,15 @@
           "command": "nixfmt"
         }
       }
+    },
+    "Python": {
+      "tab_size": 4
+    },
+    "Zig": {
+      "tab_size": 4
+    },
+    "Nu": {
+      "tab_size": 4
     }
   },
   "load_direnv": "shell_hook",
