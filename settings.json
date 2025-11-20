@@ -71,7 +71,7 @@
   },
   "terminal": {
     "shell": {
-      "program": "nu"
+      "program": "zsh"
     }
   },
   "base_keymap": "VSCode",
